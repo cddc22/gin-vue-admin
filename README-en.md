@@ -23,17 +23,20 @@ English | [简体中文](./README.md)
 
 [Development Steps](https://www.gin-vue-admin.com/guide/start-quickly/env.html) (Contributor:  <a href="https://github.com/LLemonGreen">LLemonGreen</a> And <a href="https://github.com/fkk0509">Fann</a>)
 
+## Live Demos
+
+- **Demo Site**: [http://demo.gin-vue-admin.com](http://demo.gin-vue-admin.com)
+- **Licensed Edition Demo**: [https://vip.gin-vue-admin.com](https://vip.gin-vue-admin.com)
+- **Demo Username**: `admin`
+- **Demo Password**: `123456`
+
+Explore the [licensed edition demo](https://vip.gin-vue-admin.com) to see the complete experience. For licensed-edition features or official commercial support, [purchase a commercial license](https://plugin.gin-vue-admin.com/license).
+
 ## 1. Basic Introduction
 
 ### 1.1 Project Introduction
 
 > Gin-vue-admin is a backstage management system based on [vue](https://vuejs.org) and [gin](https://gin-gonic.com), which separates the front and rear of the full stack. It integrates jwt authentication, dynamic routing, dynamic menu, casbin authentication, form generator, code generator and other functions. It provides a variety of sample files, allowing you to focus more time on business development.
-
-[Online Demo](http://demo.gin-vue-admin.com): http://demo.gin-vue-admin.com
-
-username：admin
-
-password：123456
 
 ### 1.2 Contributing Guide
 
@@ -313,5 +316,5 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 
 ## 10. Commercial considerations
 
-If you use this project for commercial purposes, please comply with the Apache2.0 agreement and retain the author's technical support statement.
+This project is licensed under the Apache License 2.0. When using, modifying, or distributing it, follow the `LICENSE` file and retain all applicable notices required by the license.
 
